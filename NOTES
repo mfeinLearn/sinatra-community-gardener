@@ -1,0 +1,8 @@
+how/when did the following happened:
+ENV["SINATRA_ENV"] = "development"
+
+when we ran the rake task we look at line one
+then ran that line then "development" was set to the
+key of "SINATRA_ENV".
+
+ENV is a hash {}
